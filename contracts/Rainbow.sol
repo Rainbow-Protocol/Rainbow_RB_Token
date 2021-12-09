@@ -156,6 +156,7 @@ contract Rainbow is ERC20,RoleManageContract{
         return _symbol;
     }
 
+  //Outside query
     function getAdminBalance()public view returns (uint256) {
       return balanceOf(_owner);
     }
