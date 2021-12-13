@@ -1,5 +1,7 @@
 pragma solidity 0.6.0;
 
+// SPDX-License-Identifier: MIT
+
 /**
  * @dev Interface of the ERC20 standard as defined in the EIP.
  */
